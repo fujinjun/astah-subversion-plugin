@@ -5,8 +5,9 @@
     <bundle.symbolicName>com.change_vision.astah.extension.plugin.svn_prototype.svn_prototype</bundle.symbolicName>
     <bundle.namespace>com.change_vision.astah.extension.plugin.svn_prototype</bundle.namespace>
     <plugin.install>true</plugin.install>
-    <astah.version>6.6</astah.version>
+    <astah.version>6.7</astah.version>
     <astah.edition>pro</astah.edition>
+    <astahPath>/mnt/c/Program Files/astah-professional/</astahPath>
   </properties>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.change_vision.astah.extension.plugin.svn_prototype</groupId>
@@ -256,7 +257,7 @@
 	<dependency>
 		<groupId>org.tmatesoft.svnkit</groupId>
 		<artifactId>svnkit</artifactId>
-		<version>1.7.4-v1</version>
+		<version>1.8.14</version>
 	</dependency>
     <dependency>
       <groupId>com.change_vision.astah</groupId>
